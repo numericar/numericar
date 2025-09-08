@@ -2,4 +2,4 @@
 
 ## Languages and Tools
 ### Languages
-[<img src="https://skillicons.dev/icons?i=java"/>] 
+<img src="https://skillicons.dev/icons?i=java"/>
