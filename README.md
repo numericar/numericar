@@ -2,5 +2,5 @@
 
 ## Languages and Tools
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,c#"/>
+<img src="https://skillicons.dev/icons?i=java,cs,js"/>
 
