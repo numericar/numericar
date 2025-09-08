@@ -18,7 +18,7 @@ I'm software developer in Thailand
 
 
 ## Contacts
-<div style="display: flex; alight-items: center;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
   <span>bright.chanokchon@gmail.com</span>
 </div>
