@@ -15,4 +15,7 @@ I'm software developer in Thailand
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light"/>
 
 ### others
-<img src="https://skillicons.dev/icons?i=github,figma,postman,stackoverflow&theme=light"/>
+
+
+## Contacts
+<img src="https://skillicons.dev/icons?i=gmail&theme=light"/> bright.chanokchon@gmail.com
